@@ -1,4 +1,4 @@
-## PerformanceTest - Ayush :alien:
+## Performance/Load Test - Ayush :alien:
 ### Files in this repo have performnance test results generate using Apache JMeter both in *CLI* and *GUI* mode.
 ### Website taken as sample: DemoBlaze (Blazemter)
 [Website Link](https://www.demoblaze.com)
